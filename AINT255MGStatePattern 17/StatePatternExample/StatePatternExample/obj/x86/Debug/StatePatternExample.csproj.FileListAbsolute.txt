@@ -1,0 +1,114 @@
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\obj\x86\Debug\StatePatternExample.csprojResolveAssemblyReference.cache
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\Content\images\bed.xnb
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\Content\images\burger.xnb
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\Content\images\NPC.xnb
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\Content\images\waterglass.xnb
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\StatePatternExample.exe
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\StatePatternExample.pdb
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.dll
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.xml
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\obj\x86\Debug\StatePatternExample.exe
+C:\Drive E\Courses\yr2015\AINT255\lectures\week03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\obj\x86\Debug\StatePatternExample.pdb
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\obj\x86\Debug\StatePatternExample.csprojResolveAssemblyReference.cache
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\obj\x86\Debug\StatePatternExample.exe
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\obj\x86\Debug\StatePatternExample.pdb
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\Content\images\bed.xnb
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\Content\images\burger.xnb
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\Content\images\NPC.xnb
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\Content\images\waterglass.xnb
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\StatePatternExample.exe.config
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\StatePatternExample.exe
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\StatePatternExample.pdb
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\Content\images\bed.xnb
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\Content\images\burger.xnb
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\Content\images\NPC.xnb
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\Content\images\waterglass.xnb
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\StatePatternExample.exe.config
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\StatePatternExample.exe
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\StatePatternExample.pdb
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\obj\x86\Debug\StatePatternExample.csprojResolveAssemblyReference.cache
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\obj\x86\Debug\StatePatternExample.exe
+C:\Drive E\Courses\yr2017\AINT255\lectures\week 03 FSM\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\obj\x86\Debug\StatePatternExample.pdb
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\Content\images\bed.xnb
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\Content\images\burger.xnb
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\Content\images\NPC.xnb
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\Content\images\waterglass.xnb
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\StatePatternExample.exe.config
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\StatePatternExample.exe
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\StatePatternExample.pdb
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.dll
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.xml
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\obj\x86\Debug\StatePatternExample.csprojResolveAssemblyReference.cache
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\obj\x86\Debug\StatePatternExample.csproj.CoreCompileInputs.cache
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\obj\x86\Debug\StatePatternExample.exe
+C:\Users\nkhonculada\Documents\AINT255MGStatePattern 17\StatePatternExample\StatePatternExample\obj\x86\Debug\StatePatternExample.pdb

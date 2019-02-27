@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/nkhonculada/Documents/AINT255MGStatePattern 17/StatePatternExample/StatePatternExample/Content/images/bed.png</File>
+    <File>C:/Users/nkhonculada/Documents/AINT255MGStatePattern 17/StatePatternExample/StatePatternExample/Content/images/burger.png</File>
+    <File>C:/Users/nkhonculada/Documents/AINT255MGStatePattern 17/StatePatternExample/StatePatternExample/Content/images/NPC.png</File>
+    <File>C:/Users/nkhonculada/Documents/AINT255MGStatePattern 17/StatePatternExample/StatePatternExample/Content/images/waterglass.png</File>
+  </SourceFiles>
+</SourceFileCollection>
